@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.thumbnail-img {
+  width: 230px;
+}
+.movie-cart {
+  display: flex;
+  flex-direction: row;
+}
+.img-btn {
+  background-color: transparent;
+  border: none;
+}
+.video-player-container {
+  background-color: #ffffff;
+  background-size: cover;
+  padding: 30px;
+  border-radius: 10px;
+}
+.close-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 22px;
+  width: 60px;
+  align-self: flex-end;
+  outline: none;
+  margin-top: 0px;
+}
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 0px;
+}

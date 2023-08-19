@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.prime-video-bg-contaner {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  border: 1px solid red;
+}
+.prime-img {
+  height: 50vh;
+}
+.slider-bg-container {
+  background-color: lightblue;
+  background-size: cover;
+  min-height: 120vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+  border: 1px solid green;
+}
+.action-heading {
+  font-size: 30px;
+  color: #ffffff;
+  text-align: start;
+}
+.action-slider-container {
+  width: 50%;
+}
